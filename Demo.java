@@ -5,4 +5,8 @@ public class Demo
    {
 return "demo";
    }
+public void Salary()
+  {
+   System.out.println("Salary calculation");
+  }
 }
